@@ -42,7 +42,7 @@ class Pcontent extends Component {
                             商品详情					
                         </h3>
                         <div className="p_content" dangerouslySetInnerHTML={{__html: this.state.list.content}} > 
-
+                            
                         </div>
                     </div>
                 </div>
